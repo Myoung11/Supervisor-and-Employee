@@ -2,14 +2,6 @@
  
  * Matthew Young
  
- * mey5087
- 
- * CMPSC122 Semester 2018
- 
- * 11:59, Saturday, 23, 2018
- 
- * 9:50, Saturday, 23, 2018
- 
  *This program will show summaries and information on different workers.
  
  */
